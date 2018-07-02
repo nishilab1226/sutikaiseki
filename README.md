@@ -1,0 +1,2 @@
+# sutikaiseki
+python課題
